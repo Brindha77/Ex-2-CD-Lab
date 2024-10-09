@@ -5,6 +5,7 @@
 ### REG NO : 21222223023
 
 ## AIM :
+
  To write a lex program to implement lexical analyzer to recognize a few patterns.
  
 ## ALGORITHM :
@@ -38,6 +39,7 @@
 7.	Compile that file with C compiler and verify the output.
 
 ## INPUT :
+
 ## FILE.L
 ```
 %{
@@ -145,7 +147,9 @@ int main()
 ```
 
 ## OUTPUT :
+
 ![cd 2](https://github.com/user-attachments/assets/d323c9a0-8ebb-4d28-9b86-989741a606a0)
 
 ## RESULT :
+
 The lexical analyzer is implemented using lex and the output is verified.
