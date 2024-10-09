@@ -1,8 +1,12 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
+
 ### NAME : BRINDHA.R
+
 ### REG NO : 21222223023
+
 ## AIM :
  To write a lex program to implement lexical analyzer to recognize a few patterns.
+ 
 ## ALGORITHM :
 
 1.	Start the program.
